@@ -1,0 +1,21 @@
+body {
+	background-color:pink;
+}
+div {
+	text-align:center;
+	margin: auto;
+	color:black;
+	font-family:"Courier New",monospace;
+	font-size:64px;
+	font-style:italic;
+	color:white;
+}
+#ocean {
+	height:128px;
+	background-image: linear-gradient(to right, rgba(255,255,255,0.5), rgba(0,204,255,0.9));
+}
+
+form {
+  margin-bottom: 20px;
+}
+
